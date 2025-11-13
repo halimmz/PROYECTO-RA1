@@ -1,0 +1,6 @@
+fecha,id_cliente,id_producto,unidades,precio_unitario
+2025-01-08,C001,P10,1,12.50
+2025-01-08,C008,P70,3,9.99
+2025-01-08,C009,P70,3,9.99
+2025-01-08,C010,P10,2,abc     # error de tipo
+2025-01-08,C011,P88,2,100.00  # venta alta

@@ -1,0 +1,6 @@
+fecha,id_cliente,id_producto,unidades,precio_unitario
+2025-01-09,C012,P10,1,12.50
+2025-01-09,C013,P20,1,8.00
+2025-01-09,C013,P20,1,8.00     # duplicado
+2025-01-09,C014,P30,4,7.50
+2025-01-09,C015,P50,3,20.00

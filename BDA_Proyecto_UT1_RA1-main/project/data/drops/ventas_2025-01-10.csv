@@ -1,6 +1,0 @@
-fecha,id_cliente,id_producto,unidades,precio_unitario
-2025-01-10,C016,P10,1,12.50
-2025-01-10,C017,P99,2,doce    # error de tipo
-2025-01-10,C018,P10,3,12.50
-2025-01-10,C019,P20,2,8.00
-2025-01-10,C020,P99,-2,10.00  # unidades negativas
